@@ -1,0 +1,26 @@
+{
+  "name": "node-statusdb-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "StatusDbClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musukvl/node-statusdb-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musukvl/node-statusdb-client/issues"
+  },
+  "homepage": "https://github.com/musukvl/node-statusdb-client#readme",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "object-hash": "^1.1.8",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
